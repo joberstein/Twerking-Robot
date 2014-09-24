@@ -1,3 +1,8 @@
+Twerking Robot
+--------------------------------------------------------------------------------
+A program that explores the use of translation, rotation, and scaling within Processing.
+<br>
+<br>
 Project Information
 --------------------------------------------------------------------------------
   - Version 1.0 on September 19th, 2014
